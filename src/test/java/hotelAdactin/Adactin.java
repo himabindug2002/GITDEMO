@@ -15,6 +15,7 @@ public class Adactin {
   	    driver.findElement(By.id("password")).sendKeys("2002BINDU");
   	    driver.findElement(By.id("login")).click();
 		system.out.println("Git");
+		system.out.println("added new line to tigger");
 
 	}
 
